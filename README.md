@@ -1,1 +1,1 @@
-![screenshot1](http://localhost:8888/view/Ecommerce/Screenshort/Image1.png)
+![screenshot1](https://github.com/Shuby999/Project/blob/main/Screenshort/Image1.png)

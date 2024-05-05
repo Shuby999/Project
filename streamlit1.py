@@ -37,3 +37,6 @@ st.plotly_chart(fig)
 
 fig=px.pie(df,names='Sub-Category',values='Profit',title="Pie chart bw Sub category n profit",hole=0.2)
 st.plotly_chart(fig)
+
+fig=px.bar(df.head(20),x='Customer Name',y='Quantity',color='Profit',hover_data=['Discount','Category'],title="Graph bw customer Name n Quantity no of order")
+st.plotly_chart(fig)
